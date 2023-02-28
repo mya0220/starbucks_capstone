@@ -7,6 +7,7 @@
 3. Files: 
         - /data contains 3 json files that contains offer info (portfolio.json), customer data (profile.json) and transaction data (transcript.json) 
         - Starbucks_Capstone_notebok.ipynb contains the ETL process and model development, testing process.
+	-/Figure contains data visualization used for Medium Post.
 
 Summary of result:
 The notebook contains necessary EDA to include factors that seem significant.
