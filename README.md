@@ -1,4 +1,5 @@
 # Starbucks Offer Capstone Project
+Link for this repo in github: https://github.com/mya0220/starbucks_capstone
 
 1. Goal: The data contains starbucks customer info, offer info and transaction data. The goal for this project is to make a classification model that can tell us whether or not a customer will respond to certain 'offer event'.
 
